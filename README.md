@@ -9,7 +9,7 @@
 
 ---
 
-<a href="https://count.getloli.com/"><a align="center"><img src="https://count.getloli.com/get/@Exck0-exe?theme=rule34"/></a><br/>
+<a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@Exck0-exe?theme=rule34"/></a><br/>
 
 ---
 
