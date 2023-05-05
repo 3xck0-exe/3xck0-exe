@@ -6,7 +6,7 @@
 - 👽 I’m currently learning **Books on hacking / Comptia Linux+ /  programming concepts and the differences in syntacts and functionality between front end programming and back end programming.**
 
 
-<p align="center"> <img src="https://visitcount.itsvg.in/api?id=Exck0-exe&icon=2&color=12" /> </p>
+<a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@Exck0-exe?theme=rule34"/></a><br/>
 
 ---
 <h3 align="left">Languages and Tools:</h3>
