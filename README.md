@@ -3,7 +3,7 @@
 
 ---
 
-- 👾 I’m currently working on **familiarizing myself with java for programming in my AP Computer Science Class. & { Learning C/Rust for malware development, Python for automation and and learning automation to make repetative tasks of setting up these C3 Servers and the interconnectivity to be done on its own}**
+- 👾 I’m currently working on **familiarizing myself with java for programming in my AP Computer Science Class. & { Learning C/Rust for malware development, Python for automation and learning automation to make repetative tasks in C2 Servers easy. and the interconnectivity to be done on its own.}**
 
 - 👽 I’m currently learning **Books on hacking / Comptia Linux+ /  programming concepts and the differences in syntacts and functionality between front end programming and back end programming.**
 
