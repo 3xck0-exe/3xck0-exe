@@ -1,5 +1,7 @@
-<h1 align="center">Greetings. I'm Excko! :) </h3>
-<h3 align="center">A Cybersecurity Enthusiast / Learning to be a { Pentester / Bughunter } </h3>
+# 👾 Greetings. I'm Excko!
+
+**`A Cybersecurity Enthusiast(Learning to be a - {Pentester / Bughunter} )`**
+
 
 ---
 <img align="right" width="400" src="https://i.pinimg.com/originals/11/33/bf/1133bf5d717d9390816f86f9b04d1f80.gif">
@@ -9,6 +11,9 @@
 👽 I’m currently learning **Books on hacking / Comptia sec+ | Linux+  /  programming concepts and linux configuration with hyprland + neovim.**
 
 ---
+
+
+
 
 <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@Exck0-exe?theme=rule34"/></a><br/>
 
