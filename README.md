@@ -2,10 +2,11 @@
 <h3 align="center">A Cybersecurity Enthusiast / Learning to be a { Pentester / Bughunter } </h3>
 
 ---
+<img align="right" width="400" src="https://i.pinimg.com/originals/11/33/bf/1133bf5d717d9390816f86f9b04d1f80.gif">
 
-- 👾 I’m currently working on **familiarizing myself with java for programming in my AP Computer Science Class. & { Learning C/Rust for malware development, Python for automation and learning automation to make repetative tasks in C2 Servers easy. and the interconnectivity to be done on its own.}**
+- 👾 I’m working towards **Being fluent in the command line to be a poweruser and sysadmin. While developing core programming skills to become a great hacker**
 
-- 👽 I’m currently learning **Books on hacking / Comptia Linux+ /  programming concepts and the differences in syntacts and functionality between front end programming and back end programming.**
+- 👽 I’m currently learning **Books on hacking / Comptia sec+ | Linux+  /  programming concepts and linux configuration with hyprland + neovim.**
 
 ---
 
