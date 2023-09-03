@@ -17,7 +17,7 @@
 
 
 
-<a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@Exck0-exe?theme=rule34"/></a><br/>
+<a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@3xck0-exe?theme=rule34"/></a><br/>
 
 ---
 
@@ -30,9 +30,9 @@
           <img src="https://skillicons.dev/icons?i=java,python,raspberrypi,html,css" width="40%" height="40%"/>
        </a>
        <br>
-        <img src="https://github-readme-stats.vercel.app/api?username=Exck0-exe&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=true"> <br>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Exck0-exe&theme=great-gatsby&hide_border=false&include_all_commits=false&count_private=false&layout=compact"> <br>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Exck0-exe&theme=great-gatsby&hide_border=false"> <br>
+        <img src="https://github-readme-stats.vercel.app/api?username=3xck0-exe&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=true"> <br>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3xck0-exe&theme=great-gatsby&hide_border=false&include_all_commits=false&count_private=false&layout=compact"> <br>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=3xck0-exe&theme=great-gatsby&hide_border=false"> <br>
 </p>
 
 
