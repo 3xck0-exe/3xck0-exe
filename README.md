@@ -1,16 +1,16 @@
 
 # Greetings. I'm 3xck0!
 
-**`A Cybersecurity Enthusiast(Learning to be a - {Pentester / Bughunter} )`**
+**`A Cybersecurity/Electrical Enthusiast learning to become a skilled trade worker to build clean and proficient work while continuing my intelligence on automation/security`**
 
 
 ---
 <img align="right" width="400" src="https://github.com/Exck0-exe/Exck0-exe/assets/103549130/cab8766c-ba0d-4859-9d0c-97954b491cda">
 
 
-👾 I’m working towards **Being fluent in the command line to be a poweruser and sysadmin. While developing core programming skills to become a great hacker**
+👾 I’m working towards **Being fluent in the command line to be a poweruser and sysadmin. While developing core programming skills to become a great CyberNinja**
 
-👽 I’m currently learning **Books on hacking / Comptia sec+ | Linux+  /  programming concepts and linux configuration with hyprland + neovim.**
+⚡️ I’m currently learning **Electrical science and practice while learning wiring and research on code knowledge and field practice to be proficient in the electrical field**
 
 ---
 
